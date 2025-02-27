@@ -1,8 +1,9 @@
-# React + Vite
+:  Secure Web Application and label code verification In React with MongoDB Database.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot (24)](https://github.com/user-attachments/assets/59fe6f24-9894-4e8e-b7a1-5da09239ecb4)
 
-Currently, two official plugins are available:
+![Screenshot (25)](https://github.com/user-attachments/assets/0be7adf9-32a9-4b6b-b1fd-e4abe4f2ebb6)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot (26)](https://github.com/user-attachments/assets/1f5e9212-de5c-41fc-968c-a694b875ef0e)
+
+![Screenshot (27)](https://github.com/user-attachments/assets/a81a88da-3734-47fd-a1a3-914899d088c2)
